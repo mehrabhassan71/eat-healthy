@@ -23,6 +23,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -37,4 +38,14 @@ section {
 .background-banner {
     background-image: url(images/shapes/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+#its-me {
+    margin-bottom: 50px;
+    width: 50%;
 }
